@@ -362,8 +362,8 @@ ul.dropdown {
   display: flex;
   justify-content: center;
   align-items: center;
-	background-size: contain;
-	background-repeat: no-repeat;
+	/*background-size: contain;
+	background-repeat: no-repeat;*/
 }
 /* 
 .section-background:before {
